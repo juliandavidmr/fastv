@@ -1,0 +1,31 @@
+{
+  "name": "fastv",
+  "version": "1.0.0",
+  "description": "Get the version of a program quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/fastv.git"
+  },
+  "keywords": [
+    "version",
+    "program",
+    "bash"
+  ],
+  "files": [
+    "lib/",
+    "package.json",
+    "index.js",
+    "LICENCE",
+    "README.md"
+  ],
+  "author": "@juliandavidmr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/fastv/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/fastv#readme"
+}
