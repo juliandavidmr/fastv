@@ -1,6 +1,6 @@
 {
   "name": "fastv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the version of a program quickly",
   "main": "index.js",
   "scripts": {
@@ -13,13 +13,15 @@
   "keywords": [
     "version",
     "program",
-    "bash"
+    "bash",
+    "linux",
+    "os"
   ],
   "files": [
     "lib/",
     "package.json",
     "index.js",
-    "LICENCE",
+    "LICENSE",
     "README.md"
   ],
   "author": "@juliandavidmr",
