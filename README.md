@@ -1,4 +1,6 @@
-# fastv
+<p align="center"><img src="./docs/img.png"></p>
+========
+[![Build Status](https://travis-ci.org/juliandavidmr/fastv.svg?branch=master)](https://travis-ci.org/juliandavidmr/fastv)
 
 Get the version of a program quickly.
 
