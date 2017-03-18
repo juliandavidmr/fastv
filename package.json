@@ -1,6 +1,6 @@
 {
   "name": "fastv",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Get the version of a program quickly",
   "main": "index.js",
   "scripts": {
@@ -22,10 +22,12 @@
   ],
   "files": [
     "lib/",
+    "docs/",
     "package.json",
     "index.js",
     "LICENSE",
-    "README.md"
+    "README.md",
+    ".travis.yml"
   ],
   "author": "@juliandavidmr",
   "license": "ISC",

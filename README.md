@@ -1,4 +1,4 @@
-<p align="center"><img src="./docs/img.png"></p>
+<p align="center"><img src="https://github.com/juliandavidmr/fastv/blob/master/docs/img.png?raw=true"></p>
 
 -------------
 
