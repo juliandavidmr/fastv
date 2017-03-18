@@ -1,6 +1,6 @@
 var fastv = require("../");
 
-fastv("g++", function (err, version) {
+fastv("NPM", function (err, version) {
     if(err) throw err;
     console.log("Version:", version);
 })

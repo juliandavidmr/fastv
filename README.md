@@ -39,6 +39,14 @@ fastv("nodejs", function (err, version) {
 })
 ```
 
+```js
+fastv("kernel", function (err, version) { // Only linux
+    if(err) throw err;
+    console.log(version);
+    //=> 4.4.0-64
+})
+```
+
 ## Programs available
 * Atom
 * Audacity
@@ -54,6 +62,7 @@ fastv("nodejs", function (err, version) {
 * LibreOffice
 * Nemo
 * NodeJS
+* NPM
 * [NCU](https://www.npmjs.com/package/npm-check-updates)
 * Shotwell
 * Openshot

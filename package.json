@@ -1,6 +1,6 @@
 {
   "name": "fastv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get the version of a program quickly",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "program",
     "bash",
     "linux",
-    "os"
+    "os",
+    "get",
+    "information",
+    "number"
   ],
   "files": [
     "lib/",
