@@ -1,6 +1,6 @@
 var fastv = require("../");
 
-fastv("kernel", function (err, version) {
+fastv("g++", function (err, version) {
     if(err) throw err;
     console.log("Version:", version);
 })

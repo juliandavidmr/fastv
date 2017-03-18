@@ -43,6 +43,7 @@ fastv("nodejs", function (err, version) {
 * Atom
 * Audacity
 * Cheese
+* Emacs
 * Firefox
 * Gedit
 * GoogleChrome
@@ -56,20 +57,27 @@ fastv("nodejs", function (err, version) {
 * [NCU](https://www.npmjs.com/package/npm-check-updates)
 * Shotwell
 * Openshot
-* OS                       
-* Kernel                   
+* OS
+* Plank
+* Python
+* Java
+* Javac
+* Kernel                
 * Systemd
 * Transmission
+* Unity
 * Virtualbox
-* VisualStudioCode
+* VisualCode
 * Vlc
 * Zenmap
 * Zip
 * [Zsh](https://github.com/robbyrussell/oh-my-zsh)
+* And more...
 
 ## Contributors
 
 * [Julian David](https://github.com/juliandavidmr)
+* [Mitch Aguilar](https://github.com/MitchAguilar)
 
 
 ### _I accept any pull request_
