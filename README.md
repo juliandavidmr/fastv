@@ -2,6 +2,8 @@
 
 -------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliandavidmr/fastv.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/juliandavidmr/fastv.svg?branch=master)](https://travis-ci.org/juliandavidmr/fastv)
 
 
